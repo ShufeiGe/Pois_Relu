@@ -1,4 +1,5 @@
-This folder contains the R code implements the anneled SMC infrence of two layer ReLu neural networks induced by Possion hyperplane processes described in Ge, Shufei, Shijia Wang, and Lloyd Elliott. "Poisson Hyperplane Processes with Rectified Linear Units". The code files are released under the open source BSD 2-clause license.
+This folder contains the R code for the implementation of the proposed method in manuscript 
+"Poisson Hyperplane Processes with Rectified Linear Units" by Ge, Shufei, Shijia Wang, and Lloyd Elliott. 
 
 ---file 'demo.R' : a demo for the implementation.
 ---file 'main_functions.R' : it contains functions used in the impletation of the proposed methods 
