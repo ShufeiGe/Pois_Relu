@@ -1,5 +1,5 @@
 ## Two-layer ReLu neural network induced by Poisson hyperplane processes
-The file contains code implements the anneled SMC infrence of two layer ReLu neural networks induced by Possion hyperplane processes described in Ge, Shufei, Shijia Wang, and Lloyd Elliott. "Poisson Hyperplane Processes with Rectified Linear Units". The code files are released under the open source BSD 2-clause license.
+The file contains R code implements the anneled SMC infrence of two layer ReLu neural networks induced by Possion hyperplane processes described in Ge, Shufei, Shijia Wang, and Lloyd Elliott. "Poisson Hyperplane Processes with Rectified Linear Units". The code files are released under the open source BSD 2-clause license.
 
 ## Citation
 If you use the code (partial or all) in your research, please cite the following manuscript:
