@@ -7,7 +7,7 @@ If you use the code (partial or all) in your research, please cite the following
 Ge, Shufei, Shijia Wang, and Lloyd Elliott. "Poisson Hyperplane Processes with Rectified Linear Units."
 
 ## LICENSES
-Pois_Relu v1.0. Copyright (c) 2024. Shufei Ge.
+Pois_Relu v1.0.0 Copyright (c) 2024. Shufei Ge.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
