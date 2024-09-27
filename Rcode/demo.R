@@ -33,7 +33,7 @@ simulate_data <- function(seed,n,p,K){
   
   sigma2.true <- 0.1^2
   w <- matrix(rnorm(K),nrow=K,ncol=1)
-  w0 <- rnorm(1)
+  w0 <- rnorm(1)*0.1
   err <-sqrt(sigma2.true)*rnorm(n) #0.05*rnorm(n)
   
   proj <- data.x%*%norms - matrix(ells,nrow=n,ncol=K,byrow = TRUE)
